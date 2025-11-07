@@ -1,0 +1,6 @@
+@MTSM.WebAPI_HostAddress = http://localhost:5134
+
+GET {{MTSM.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
